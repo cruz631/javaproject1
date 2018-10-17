@@ -4,8 +4,9 @@ public class hello{
 
                for(int i=1;i<=10;i++){
           
-               System.out.println("caca happens...."+i);
+               System.out.printLn("caca happens...."+i);
 
+#                System.out.printLn(“Hello World… ”+i);
        }
    }
 }
